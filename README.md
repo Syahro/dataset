@@ -112,5 +112,6 @@ Tahapan Modeling :
 ## Evaluation
 
 Matrik yang digunakan adalah : Confusion Matrix
+
 Dari beberapa percobaan model dengan menggunakan confusion matrix, nilai akurasi yang paling bagus ada di Random Forest
 
