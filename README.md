@@ -307,8 +307,8 @@ Pada Project kali ini menggunakan Metrik :
   - Neverwhere : Neil Gaiman
 
 
-  ![Visualisasi Training](https://github.com/Syahro/dataset/blob/main/download.png)
-  
+  ![download](https://github.com/Syahro/dataset/assets/42954205/90854548-dd5c-4f20-b3f4-64b8c0fe9971)
+ 
 
 
 - Kesimpulan : 
